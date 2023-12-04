@@ -27,7 +27,7 @@ const Footer = () => {
             Carhub 2023 <br />
             All Rights Reserved &copy;
             <br />
-            <span className="font-bold">RAYEN ANDOLSI</span>
+            <span className="hover:scale-105">RAYEN ANDOLSI</span>
           </p>
           <div className="flex gap-4">
             <Link href={"https://www.linkedin.com/in/rayen-andolsi-3205832a2/"} title="linkedin" className="hover:scale-105">
